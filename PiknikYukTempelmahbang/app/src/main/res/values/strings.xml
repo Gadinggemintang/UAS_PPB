@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Piknik Yuk</string>
+    <string name="login">Masuk</string>
+    <string name="loguot">Keluar</string>
+    <string name="login_form">Masuk</string>
+    <string name="username_login">Username</string>
+    <string name="password_login">Password</string>
+    <string name="sign_in_bt_login">Masuk</string>
+    <string name="register_sign">Buat Akun</string>
+    <string name="sign_up_login">Daftar</string>
+    <string name="namalengkap_register">Nama</string>
+    <string name="username_register">Username</string>
+    <string name="password_register">Password</string>
+    <string name="confirm_password_register">Confirm Password</string>
+    <string name="sign_up_bt__register">Daftar</string>
+    <string name="login_sign">Sudah Punya Akun</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="akun">Setting Akun</string>
+    <string name="keluar">Keluar</string>
+    <string name="google_mtv_coord_zoom12">geo:37.422114,-122.086744?z=12</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title">Title</string>
+    <string name="harga">Harga</string>
+    <string name="rp">Rp.</string>
+
+    <string-array name="titles">
+        <item>Paket Wisata 1</item>
+        <item>Paket wisata 2</item>
+        <item>Paket wisata 3</item>
+        <item>Paket Wisata 4</item>
+        <item>Paket wisata 5</item>
+        <item>Paket Wisata 6</item>
+    </string-array>
+
+    <string-array name="harga">
+        <item>10000000</item>
+        <item>650000</item>
+        <item>700000</item>
+        <item>750000</item>
+        <item>800000</item>
+        <item>150000000</item>
+    </string-array>
+
+    <string-array name="des">
+        <item>Paket wisata 1</item>
+        <item>Paket wisata 2</item>
+        <item>Paket wisata 3</item>
+        <item>Paket Wisata 4</item>
+        <item>Paket Wisata 5</item>
+        <item>Paket Wisata 6</item>
+    </string-array>
+
+    <array name="images">
+        <item>@drawable/an1</item>
+        <item>@drawable/an2</item>
+        <item>@drawable/an3</item>
+        <item>@drawable/an4</item>
+        <item>@drawable/an5</item>
+        <item>@drawable/an6</item>
+    </array>
+</resources>
